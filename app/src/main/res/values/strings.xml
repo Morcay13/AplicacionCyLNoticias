@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="boton_ver_noticias">boton_ver_noticias</string>
+    <string name="categotias">categotias</string>
+
+    <string-array name="noticias_array">
+        <item>Noticia 1</item>
+        <item>Noticia 2</item>
+        <item>Noticia 3</item>
+        <item>Noticia 4</item>
+    </string-array>
+</resources>
